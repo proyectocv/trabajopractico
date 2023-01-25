@@ -1,0 +1,50 @@
+  /**
+  * {outline : 1px solid red                    }
+*/
+  header ,section  { 
+    width: 960px ;
+  margin :auto;
+  
+  display: flex;
+}
+  img {
+    width: 150px;
+    height: 150px;
+    margin-right: 16px;
+    border-radius: 60%;
+  }
+  header { 
+        background-color: rgba(127, 204, 255, 0.356);
+  }
+  
+  
+  section { 
+    background-color: #cfcaca;
+  }
+
+    .titulos {
+      text-align: center;
+      color:red;
+      
+    }
+
+#boton {
+  border-radius: 40px;
+  margin-right: 60px;
+  cursor: pointer;
+  border:none;
+  background-color: rgba(127, 204, 255, 0.356);
+  
+}
+
+#redes {
+font-size: 30px;
+text-align:center;
+
+}
+
+#redes :hover {
+ 
+  color:aqua;
+  
+}
